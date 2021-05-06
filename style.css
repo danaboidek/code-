@@ -7,11 +7,11 @@ body {
     background-color: white ;
     border: solid 1px  black ; 
     width: 1282px;
-    margin: 150px auto ;
+    margin: 100px auto ;
     padding: 25px;
 }
 
-.insidediv {margin: center;
+.insidediv {margin: auto;
 
 }
 h1 { 
